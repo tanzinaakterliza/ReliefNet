@@ -20,6 +20,10 @@ The platform improves communication, ensures transparency in donations, speeds u
   
 
 <img width="1907" height="875" alt="Screenshot 2026-06-08 160912" src="https://github.com/user-attachments/assets/e471152d-31ca-4976-b648-b2e06ba66989" />
+<img width="1919" height="859" alt="Screenshot 2026-06-08 162744" src="https://github.com/user-attachments/assets/a9c0185c-8590-461b-8d68-f4017a1c00cb" />
+<img width="1919" height="858" alt="Screenshot 2026-06-08 162757" src="https://github.com/user-attachments/assets/f771567e-de38-4b39-a39c-1415a058e3a2" />
+<img width="1919" height="854" alt="Screenshot 2026-06-08 162809" src="https://github.com/user-attachments/assets/dabc960a-4606-40ce-8292-ba055fd136ad" />
+
 
 
 
