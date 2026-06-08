@@ -17,9 +17,26 @@ The platform improves communication, ensures transparency in donations, speeds u
 - Platform introduction and awareness section
 - Quick access to important services
 
+  
+
+<img width="1907" height="875" alt="Screenshot 2026-06-08 160912" src="https://github.com/user-attachments/assets/e471152d-31ca-4976-b648-b2e06ba66989" />
+
+
+
+
 ## About Page
 - Information about ReliefNet
 - Mission and objectives
+
+
+<img width="1919" height="847" alt="Screenshot 2026-06-08 161106" src="https://github.com/user-attachments/assets/c95260de-c852-4964-a06e-f4ee4e92450f" />
+<img width="1919" height="843" alt="Screenshot 2026-06-08 161118" src="https://github.com/user-attachments/assets/fcddf768-c9db-4d15-95ee-3144d2a1d808" />
+<img width="1919" height="850" alt="Screenshot 2026-06-08 161129" src="https://github.com/user-attachments/assets/46187fcf-bf49-420d-8140-82313fbf1ed1" />
+<img width="1919" height="851" alt="Screenshot 2026-06-08 161143" src="https://github.com/user-attachments/assets/4db5aa6d-8f55-45ad-9df3-7894556462a7" />
+<img width="1919" height="838" alt="Screenshot 2026-06-08 161201" src="https://github.com/user-attachments/assets/9c9eca6c-7942-43d1-91cc-a0c600c82d86" />
+
+
+
 
 ## Resources Page
 - Emergency Kit Checklist
@@ -28,11 +45,44 @@ The platform improves communication, ensures transparency in donations, speeds u
 - Flood Safety Tips
 - Cyclone Preparedness
 
+
+
+
+<img width="1914" height="877" alt="Screenshot 2026-06-08 161353" src="https://github.com/user-attachments/assets/e2ccef19-4d1e-4583-98b7-ed8eb209c9ef" />
+<img width="1910" height="857" alt="Screenshot 2026-06-08 161412" src="https://github.com/user-attachments/assets/ff8c93d2-0003-4f8d-a988-0fbcb9cce444" />
+<img width="1892" height="843" alt="Screenshot 2026-06-08 161433" src="https://github.com/user-attachments/assets/ef23deb1-69c9-451c-b649-f3e24e9a7c6b" />
+<img width="1919" height="842" alt="Screenshot 2026-06-08 161456" src="https://github.com/user-attachments/assets/44fc62c0-dc4f-4ac2-8968-7587c5ff1038" />
+
+
+
+
+
 ## Contact Page
 - Contact form for inquiries and support
 
+
+
+
+<img width="1919" height="865" alt="Screenshot 2026-06-08 161626" src="https://github.com/user-attachments/assets/ac34abd2-8460-4775-b601-67a3ec489d98" />
+<img width="1919" height="837" alt="Screenshot 2026-06-08 161644" src="https://github.com/user-attachments/assets/7d5b4950-1ff6-4879-943b-a02c6ced930c" />
+
+
+
+
+
+
 ## Sign Up
 - Secure user registration system
+
+
+
+
+<img width="1901" height="866" alt="Screenshot 2026-06-08 162416" src="https://github.com/user-attachments/assets/119fa477-6489-49f4-bf6d-4bb748c222cf" />
+<img width="1919" height="864" alt="Screenshot 2026-06-08 162432" src="https://github.com/user-attachments/assets/cb9ed123-dc9a-4c9c-9310-9c587c449739" />
+
+
+
+
 
 ## Dark Mode
 - Light and dark theme support
